@@ -1,4 +1,4 @@
 # IOScalculator
-first ios app (simple calculator)
+First ios app.
 
 Simply calculator app (just to get a feel for Swift)
